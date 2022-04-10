@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @Wiebkea214
+- 🌱 I’m a student of electrical engineering and specialised on automation.
+- Here you can find projects resulting of study labs and private projects. Have fun
+- 📫 How to reach me: wiebke198@gmail.com
